@@ -2,7 +2,7 @@
 
 
 - :computer:  Computer Science
-- :zap:  Studying schedule.
+- 📚: Studying schedule
 - :bearded_person: Pronouns: Ele/Dele
 
 - ##
