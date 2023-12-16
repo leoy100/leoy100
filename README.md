@@ -1,5 +1,4 @@
-## Olá! Eu sou o Leonardo.
-
+## Olá! Eu sou Leonardo!
 
 - :computer:  Computer Science
 - 📚: Studying schedule
