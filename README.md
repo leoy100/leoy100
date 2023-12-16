@@ -1,7 +1,7 @@
 ## Olá! Eu sou Leonardo!
 
 - :computer:  Computer Science
-- 📚: Studying schedule
+- 📚 Studying schedule
 - :bearded_person: Pronouns: Ele/Dele
 
 - ##
